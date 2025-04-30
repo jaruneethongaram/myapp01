@@ -28,6 +28,22 @@
   color: #61dafb;
 }
 
+.bg-lightblue{
+  background-color: #4e4ebb;
+  color:white;
+}
+.title{
+  margin-top:0px;
+  padding:5px 10px 8px 10px;
+  margin-bottom:0px;
+}
+.content{
+  background-color: #dad7f4;
+  margin:0px 20px 0px 20px;
+  padding:10px 15px 12px 15px;
+  text-align:justify;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
